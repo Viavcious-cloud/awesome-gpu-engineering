@@ -93,6 +93,7 @@
 - **nvprof**, **nvvp**, **Nsight Systems / Compute** — NVIDIA profiling tools.  
 - **cuda-memcheck**, **compute-sanitizer** — Memory and correctness tools.  
 - **[GPGPU-Sim](https://github.com/gpgpu-sim/gpgpu-sim)**, **[Accel-Sim](https://accel-sim.github.io/)** — GPU simulation frameworks.  
+- **[Ingero](https://github.com/ingero-io/ingero)** — eBPF-based GPU causal observability agent. Traces CUDA Runtime/Driver APIs and host kernel events to build causal chains explaining GPU latency. <2% overhead, production-safe.
 - **Perfetto**, **Nsight UI** — Visual profilers for tracing GPU workloads.
 
 ### Learning Tools
